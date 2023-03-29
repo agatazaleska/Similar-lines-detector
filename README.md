@@ -2,7 +2,8 @@
 
 ## Project description
 
-This is a project task for "Individual programming project" course at University of Warsaw.
+This is a project task for "Individual Programming Project" course at University of Warsaw, the Faculty of Mathematics, Informatics and Mechanics, 2020/2021.
+
 The program searches for groups of similar lines in a given text.
 
 Two numbers are similar if they represent the same number, two non-numbers are similar if they represent the same word, in lowercase, uppercase or mix of them. Two lines are similar if they contain identical multisets of non-numbers and numbers.
